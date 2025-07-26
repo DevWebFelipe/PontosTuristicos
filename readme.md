@@ -1,17 +1,34 @@
+# Pontos Turísticos
+
+Projeto de site informativo sobre pontos turísticos. Possui layout responsivo e conteúdo dividido em seções, utilizando HTML semântico e estilização moderna.
+
+## 🔗 Visualização
+
+Veja o projeto ao vivo: [PontosTuristicos](https://devwebfelipe.github.io/PontosTuristicos/)
+
+## 📱 Responsivo
+
+✅ Desktop  
+✅ Mobile
+
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- HTML5
+- CSS3
+- Flexbox
+- Responsividade com Media Queries
 
-- HTML e CSS
-- Git e Github
-- Figma
+## 🧑‍💻 Como executar
 
-## 💻 Projeto
+1. Clone o repositório:
+git clone https://github.com/DevWebFelipe/PontosTuristicos.git
 
-Projeto de desafio da formação full stack da rocketseat
+2. Abra o arquivo `index.html` no navegador.
 
-## 🔖 Layout
+## 📸 Imagens
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1384542229391733447/local-turistico). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+<img width="551" height="280" alt="image" src="https://github.com/user-attachments/assets/a1edaad5-a2fb-4b87-8605-a11c00d197e5" />
 
----
+## 📄 Licença
+
+Distribuído sob a licença MIT.
